@@ -7,7 +7,9 @@
     "Acknowledgements": "",
     "HowToAcknowledge": "",
     "Funding": "National Institutes of Health (R01MH112357-01 and R01-EY021755)",
-    "ReferencesAndLinks": [],
+    "ReferencesAndLinks": [
+        "https://www.mitpressjournals.org/doi/abs/10.1162/jocn_a_01308?url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub%3dpubmed"
+    ],
     "DatasetDOI": "10.18112/openneuro.ds001545.v1.0.1",
     "BIDSVersion": "1.1.1"
 }
