@@ -1,0 +1,5 @@
+Participants watched different clips of The Grand Budapest Hotel.
+
+The onset times in each '_events.tsv' reflects the onset times (in seconds) after discarding 3 volumes in a preprocessing step (for T1 equilibration). For these timing files to be relevant, first discard 3 volumes at the beginning of each functional run.
+
+The "waiting for scanner" period at the beginning of the run-specific mp4 files takes longer than 4.5s (3 volumes at 1.5s TR) because the first multiband volume  takes a long time to collect. Therefore, although the countdown to the first movie clip does not start until 37 seconds into each run-specific mp4, only 3 volumes were collected during that time. The first clip in each run onsets right after the countdown, which takes 6 seconds.
